@@ -4,6 +4,10 @@
 
 # COMMAND ----------
 
+
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC Delta Lake is an open-source storage framework that brings reliability, ACID transactions, and performance to data lakes. It sits on top of Parquet files and is most commonly used with Apache Spark and Databricks.<br>
 # MAGIC Delta Lake is the core storage layer behind Bronze–Silver–Gold (medallion) architectures.
